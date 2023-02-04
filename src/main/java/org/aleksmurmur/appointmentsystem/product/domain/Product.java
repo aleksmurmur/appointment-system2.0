@@ -16,5 +16,4 @@ public class Product extends UUIDIdentifiableEntity {
     private Duration duration;
     private Long price;
     private Boolean deleted;
-
 }
